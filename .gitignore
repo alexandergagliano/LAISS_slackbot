@@ -1,0 +1,7 @@
+obsolete/*
+.DS_Store
+sfddata-master/*
+scripts/__pycache__/*
+MLP_lupton.hdf5
+__pycache__/*
+scripts/source/__pycache__/*

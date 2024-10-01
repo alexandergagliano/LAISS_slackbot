@@ -1,0 +1,2 @@
+* * * * * python3 
+/Users/alexgagliano/Documents/Research/LAISS/AD_slackbot/auto.py 1 50 D06QGPX75B7
